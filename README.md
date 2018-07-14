@@ -1,3 +1,3 @@
 # simple-resume
 
-please visit : https://davidyunus.github.io/resume/
+Please visit : https://davidyunus.github.io/resume/
